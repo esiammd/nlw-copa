@@ -22,7 +22,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 1.  Clone o repositório: `git clone git@github.com:esiammd/nlw-copa.git`
-2.  Acesse a pasta do projeto no seu terminal: `cd nlw-copa/mobile`
+2.  Acesse a pasta do projeto: `cd nlw-copa/mobile`
 3.  Instale as dependências (node_modules): `npm install`
 4.  Crie um app no google para ter acesso ao OAuth2 (https://docs.expo.dev/guides/authentication/#google).
 5. Faça uma copia do arquivo `.env.example` e chame-a de `.env` e informe o seu CLIENT_ID.
