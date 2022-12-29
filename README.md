@@ -32,7 +32,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Server/API
-- [NodeJS](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/)
 - [Fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/)
 - [Zod](https://www.npmjs.com/package/zod)
@@ -40,7 +40,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 
 ### Web
-- [NextJS](https://nextjs.org/)
+- [Next.js](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [TypeScript](https://www.typescriptlang.org/)
