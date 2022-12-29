@@ -13,7 +13,7 @@
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [NextJS](https://nextjs.org/)
+- [Next.js](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
 - [TypeScript](https://www.typescriptlang.org/)
