@@ -13,7 +13,7 @@
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [NodeJS](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/)
 - [Fastify](https://www.fastify.io/)
 - [Prisma](https://www.prisma.io/)
 - [Zod](https://www.npmjs.com/package/zod)
