@@ -59,7 +59,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 1.  Clone o repositório: `git clone git@github.com:esiammd/nlw-copa.git`
-2.  Acesse a pasta do projeto no seu terminal: `cd nlw-copa`
+2.  Acesse a pasta do projeto: `cd nlw-copa`
 3.  Para cada um dos arquivos (mobile, server e web), acesse a pasta e instale as dependências (node_modules): `npm install`
 4.  Para o servidor (pasta server):
     - Faça uma copia do arquivo `.env.example` e chame-a de `.env`.
