@@ -20,7 +20,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Como executar
 1.  Clone o repositório: `git clone git@github.com:esiammd/nlw-copa.git`
-2.  Acesse a pasta do projeto no seu terminal: `cd nlw-copa/web`
+2.  Acesse a pasta do projeto: `cd nlw-copa/web`
 3.  Instale as dependências (node_modules): `npm install`
 4.  Alterar o endereço do arquivo `src/lib/axios.ts` colocando o IP da sua máquina.
 5. Execute o comando: `npm run dev`
