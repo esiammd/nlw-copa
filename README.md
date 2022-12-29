@@ -2,7 +2,8 @@
   <img src="https://raw.githubusercontent.com/rocketseat-education/nlw-copa-ignite/385128a4a3ea921b5b9cfb89bbb2746d3cdf2ea3/.github/logo.svg" alt="NLW Copa" width="25%" />
 </p>
 
-<h1 align="center">Projeto desenvolvido durante o NLW Copa da Rocketseat</h1>
+<h1 align="center">Seu Bolão da Copa do Mundo!</h1>
+<p align="center">Projeto desenvolvido durante o NLW Copa da Rocketseat</p>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
